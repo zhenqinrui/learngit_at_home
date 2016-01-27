@@ -1,2 +1,3 @@
 this is otherrui_create text content
-do you know?
+do you know? 
+can remote receive?
